@@ -171,5 +171,6 @@ marquee {
     background-color: grey;
 }
 .footer p {
+    color: white;
     padding: 24px auto;
 }
