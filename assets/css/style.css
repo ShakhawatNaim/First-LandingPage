@@ -168,6 +168,8 @@ marquee {
 .footer {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    padding: 40px;
     background-color: grey;
+}
+.footer p {
+    margin: 40px auto;
 }
