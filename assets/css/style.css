@@ -165,18 +165,9 @@ marquee {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     background-color: cadetblue;
 }
-.final-title {
-    text-align: center;
-    font-size: 2rem;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    background-color: cadetblue;
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-    border-radius: 10px;
-}
 .footer {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    padding: 30px auto;
+    padding: 40px;
     background-color: grey;
 }
